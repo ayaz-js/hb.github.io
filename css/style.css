@@ -112,7 +112,7 @@ section i:nth-child(even) {
   }
 
   100% {
-    transform: translateY(-2000%);
+    transform: translateY(-200px);
     opacity: 0;
   }
 }
