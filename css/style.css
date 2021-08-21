@@ -76,7 +76,7 @@ section .box .circle h2 {
   font-size: 4em;
   /* color: #0e1135; */
   background: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
-  background-clip: text;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
