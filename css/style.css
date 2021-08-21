@@ -110,8 +110,13 @@ section i:nth-child(even) {
   body {
     overflow: hidden;
   }
+  
   section .box {
-    width: 320px;
-    height: 320px;
+    width: 250px;
+    height: 250px;
+  }
+
+  section .box .circle h2 {
+    font-size: 3em;
   }
 }
